@@ -11,7 +11,7 @@ This project implements four methodologies (SM1, SM2, SM3, SM4) to analyze phylo
 
 1.  **Clone the repository:**
     ```bash
-    git clone <URL_DE_TU_REPOSITORIO>
+    git clone https://github.com/DevScience/analise-de-filogramas.git
     cd analise_filogramas
     ```
 
