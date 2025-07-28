@@ -1,0 +1,18 @@
+# .gitignore
+# Entornos virtuales de Python
+venv/
+env/
+.env
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+
+# Archivos generados por el script
+# Ignoramos la carpeta de salida de clados y los archivos intermedios t2.
+data/SM1C1C2_output/
+data/*output/t2.newick
+
+# Archivos específicos del sistema operativo
+.DS_Store
+Thumbs.db
